@@ -5,4 +5,5 @@ def main():  # omgomg
 
 if __name__ == '__main__':
     main()
+    print('returnin', end=' ')
     print(0)
